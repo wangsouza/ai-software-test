@@ -24,7 +24,9 @@ Desenvolver um aplicativo mobile de e-commerce completo com funcionalidades de b
 │   └── ISSUE_TEMPLATE/
 ├── docs/              # Documentação
 │   ├── meeting-notes.md
+│   ├── PRD.md
 │   ├── product.md
+│   ├── prompts.md
 │   ├── search-module.md
 │   ├── src-structure.md
 │   └── templates/
